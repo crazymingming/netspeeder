@@ -1,5 +1,5 @@
 # netspeeder
-仅限 centos6 系统试用
+仅限 centos6 系统使用
 
 警告！vps 使用可能导致ban机！警告！vps 使用可能导致ban机！警告！vps 使用可能导致ban机！
 
