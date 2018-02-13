@@ -5,6 +5,7 @@
 
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/crazymingming/netspeeder/master/netspeeder.sh
+
 sh netspeeder.sh
 然后通过 ps -A 查看 是否有netspeer 的进程有就ok
 杀掉所有 netspeeder 进程：killall net_speeder
